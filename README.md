@@ -23,3 +23,7 @@ Run through this checklist before launching a website.
 **[Project Feedback](project-feedback.md)**
 
 Questions once the project has been completed.
+
+**[SEO Audit](seo-audit.md)**
+
+Checklist of things to run through to understand the current state of a website.
