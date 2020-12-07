@@ -1,6 +1,6 @@
 # Checklists
 
-For more info:  [https://marcjenkins.co.uk/checklists/]( https://marcjenkins.co.uk/checklists/)
+For more info see:  [https://marcjenkins.co.uk/checklists/]( https://marcjenkins.co.uk/checklists/)
 
 ## Pre-project
 
